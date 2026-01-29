@@ -24,13 +24,16 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Enrico Contrigiani"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Hello, my name is Enrico Contrigiani if it already wasn't obvious. 
+    I am a third year electrical and computer engineering student at Virginia Tech. 
+    I hope to focus in analog IC design and semiconductor devices. 
+    This is my personal website where you can find links to my different accounts."
+  location         : "Blacksburg, VA"
+  employer         : "Virginia Tech"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : contenr22@vt.edu" 
 
   # Academic websites
   academia         : # URL
@@ -51,13 +54,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/contenr22"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +69,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/enrico-contrigiani/ # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
